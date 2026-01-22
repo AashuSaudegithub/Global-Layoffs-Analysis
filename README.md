@@ -82,5 +82,63 @@ Verified data consistency across company, industry, and country fields
 
 
 
+
+
+<img width="873" height="493" alt="ss by date" src="https://github.com/user-attachments/assets/f903b431-1683-401a-87d7-aa3fd95b2412" />
+
    
-   
+
+
+
+
+
+
+
+
+
+<img width="870" height="494" alt="ss company" src="https://github.com/user-attachments/assets/37569a5c-4d02-4db2-aa13-58d7de5e430f" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="871" height="506" alt="ss donut chart" src="https://github.com/user-attachments/assets/2384b9a9-c5ef-44b6-8c56-25b92e18ef46" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <img width="876" height="500" alt="SS industry" src="https://github.com/user-attachments/assets/b20c4f23-6997-4fbc-8534-debe4c5d2241" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="873" height="490" alt="ss map" src="https://github.com/user-attachments/assets/c8ad9341-3993-4e10-b879-ff7a4304b503" />
+
+
