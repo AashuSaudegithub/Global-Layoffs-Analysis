@@ -1,2 +1,86 @@
-# Global-Layoffs-Analysis
-📊 Global Layoffs Data Analysis (MySQL + Power BI) 📌 Project Overview  This project focuses on analyzing global layoffs data to identify workforce reduction trends across industries, countries, company stages, and time periods.
+📊 Global Layoffs Data Analysis (MySQL + Power BI) 
+
+📌 Project Overview- This project focuses on analysing global layoffs data to identify workforce reduction trends across industries, countries, company stages, and time periods. The analysis combines SQL-based data cleaning and exploratory data analysis (EDA) with interactive Power BI visualizations to deliver clear, business-focused insights. The project demonstrates end-to-end data analyst skills, from raw data preparation to dashboard-driven storytelling.
+
+🛠️ Tools & Technologies
+
+MySQL – Data cleaning, transformation, and EDA
+
+Power BI – Data modeling, DAX calculations, and interactive dashboards
+
+SQL – Aggregations, filtering, trend analysis
+
+🧹 Data Cleaning (MySQL)
+
+Removed duplicate records to ensure data accuracy
+
+Handled NULL and missing values across key columns
+
+Standardized date formats for time-based analysis
+
+Verified data consistency across company, industry, and country fields
+
+🔍 Exploratory Data Analysis (SQL) -
+
+1. Analyzed total layoffs by industry, country, and company stage
+
+2. Identified time-based trends (yearly and monthly layoffs)
+
+3. Evaluated company-level layoff impact
+
+4. Compared workforce reductions across geographic regions
+
+
+📈 Power BI Dashboard -
+
+* The interactive Power BI dashboard includes:
+
+* KPI Cards – Total layoffs, companies affected, countries impacted
+
+* Line Chart – Layoffs trend over time
+
+* Bar / Column Charts – Layoffs by industry and country
+
+* Donut / Pie Charts – Distribution by company stage
+
+* Table Visual – Company-level layoff details
+
+* Slicers – Year, industry, country for dynamic filtering
+
+📊 Key Insights -
+
+1. Certain industries experienced significantly higher layoffs compared to others
+
+2. Layoffs were concentrated in specific countries and regions
+
+3. Late-stage and large companies contributed a major share of total layoffs
+
+4. Workforce reductions followed clear time-based spikes
+
+
+🎯 Skills Demonstrated -
+
+1. SQL Data Cleaning & EDA
+
+2. Business-focused data analysis
+
+3. Power BI dashboard design
+
+4. Data-driven storytelling
+
+
+ 🚀 Future Enhancements -
+
+1. Add year-over-year comparison metrics
+
+2. Implement advanced DAX measures
+
+3. Automate data refresh from a database source
+
+
+
+
+
+
+   
+   
